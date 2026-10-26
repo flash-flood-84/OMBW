@@ -36,11 +36,6 @@ layout: default
         {% endif %}
       </div>
 
-      <a class="chapter-nav-contents"
-         href="{{ page.dir | relative_url }}">
-        Contents
-      </a>
-
       <div class="chapter-nav-next">
         {% if next_index < chapters.size %}
           {% assign next_chapter = chapters[next_index] %}
