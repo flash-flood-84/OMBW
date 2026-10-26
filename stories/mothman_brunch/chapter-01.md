@@ -9,4 +9,4 @@ dialogue
 
 ---
 
-[Back to Contents](/OMBW/stories/mothman_brunch/) | [Next Chapter →](chapter-02)
+[Back to Contents](/OMBW/stories/mothman_brunch/) | [Next Chapter →](/OMBW/stories/mothman_brunch/chapter-02/)

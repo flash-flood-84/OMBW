@@ -9,4 +9,4 @@ stuff
 
 ---
 
-[← Previous Chapter](chapter-01) | [Back to Contents](/OMBW/stories/mothman_brunch/) | [Next Chapter →](chapter-03)
+[← Previous Chapter](/OMBW/stories/mothman_brunch/chapter-01/) | [Back to Contents](/OMBW/stories/mothman_brunch/) | [Next Chapter →](/OMBW/stories/mothman_brunch/chapter-03/)
