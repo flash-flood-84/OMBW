@@ -10,7 +10,7 @@ layout: default
   </div>
 
   {% assign chapters = site.pages
-    | where_exp: "chapter", "chapter.dir == page.dir"
+    | where_exp: "chapter", "chapter.path contains page.dir"
     | where_exp: "chapter", "chapter.name contains 'chapter-'"
     | sort: "path" %}
 
