@@ -10,7 +10,8 @@ layout: default
   </div>
 
   {% assign chapters = site.pages
-    | where_exp: "chapter", "chapter.dir == page.dir and chapter.name contains 'chapter-'"
+    | where_exp: "chapter", "chapter.dir == page.dir"
+    | where_exp: "chapter", "chapter.name contains 'chapter-'"
     | sort: "path" %}
 
   {% assign current_index = nil %}
