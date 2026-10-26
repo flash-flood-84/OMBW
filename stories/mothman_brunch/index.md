@@ -3,8 +3,6 @@ layout: default
 title: Mothman Brunch
 ---
 
-<p class="eyebrow">A STORY</p>
-
 # Mothman Brunch
 
 <p class="intro">Cryptid Hallmark movie.</p>
