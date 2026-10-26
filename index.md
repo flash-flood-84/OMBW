@@ -24,7 +24,7 @@ title: Home
     </h3>
 
     <p class="story-description">
-      A story waiting to be discovered.
+      PI noir in a rainy city.
     </p>
 
     <a class="read-link"
@@ -43,7 +43,7 @@ title: Home
     </h3>
 
     <p class="story-description">
-      A story waiting to be discovered.
+      Cryptid Hallmark movie.
     </p>
 
     <a class="read-link"
