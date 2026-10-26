@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-# One Million Bad Words
-
-> There's a saying that every writer has a million bad words in him or her, and that once those million bad words are gone, he or she can write something worth reading. The question, then, is how to make those million bad words go away. The answer is easy and hard at the same time: You write them. — Barry Lyga
+"There's a saying that every writer has a million bad words in him or her, and that once those million bad words are gone, he or she can write something worth reading. The question, then, is how to make those million bad words go away. The answer is easy and hard at the same time: You write them." - Barry Lyga
 
 This is my attempt at getting all my bad words out.
 
