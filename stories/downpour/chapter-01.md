@@ -25,7 +25,7 @@ He quieted his thoughts. Trying not to sound desperate, he cleared his throat an
 
 In walked a short, soggy figure. A man in a drenched, black (or was it gray when dry?) suit. The man paused to wipe rain droplets off of his glasses. It took Peter a minute to recognize him.
 
-"Fuck off! Out! Out now! I told you I never wanted6 to see your face again! Actually wait. Where's my god damn money?"
+"Fuck off! Out! Out now! I told you I never wanted to see your face again! Actually wait. Where's my god damn money?"
 
 The man took a step back and put out his hands, as if ready for physical defense. "Pete wait!" The soggy man pleaded. "Calm down. Hey!"
 
@@ -47,10 +47,54 @@ Stu begged, "No Pete. I swear. John needs help. He needs your help!"
 
 Stu looked down, noticing the droplets falling from his suit onto the wood floors. A small puddle was beginning to form.
 
-Peter looked at the puddle too, and the two men broke into laughter.
+Peter looked at the puddle too, and then back up at Stu. The two men broke into laughter.
 
+Peters's eyes softened. "Pull up a chair." He motioned to the 2 folding chairs leaning on the wall.
 
- 
+Stu said nervously, "You sure? I'm drenched."
+
+Peter nodded and pointed to the mop next to the chairs. "In this town? You think   you're the first person to burst in here dripping wet? Hey, where's your umbrella anyway?"
+
+"The forecast called for sun."
+
+"God, they need to fire that guy. What's his network name? Timmy Lightning?"
+
+Stu plopped down on the chair. He winced  through the pain in his knee. "Agh. No, I'm alright it's fine... Johnny Thunders. Stupid name, I know."
+
+Peter sat back in his chair, which gave out a little creak. He motioned to a bowl on his desk. 
+
+"Mint?"
+
+"You're still off smokes?"
+
+"Ya. Mint?"
+
+Stu grabbed a mint and popped it in his mouth. It warbled around his teeth and palate as he said, "So can we talk about your brother?"
+
+Peter let out a long sigh. "Ugh. Fine."
+
+Stu unbuttoned his coat and cleared his throat. "It's the dockworkers' union he pissed off this time. He swears it's not his fault. He got mixed up with their accountant, Artie Summers, small man, unusually stupid for a number guy. John somehow convinced him to place a bet at the racetrack."
+
+Peter popped a mint.
+
+"I don't know all the details but the wrong horse won, the accountant is dead, and the union is after John for the money. Summers used union money to place the bet."
+
+"He'd better just leave town like usual," Peter casually suggested.
+
+Stu's squinted. "It's too late. They've got him."
+
+Peter muttered under his breath while shaking his head, "John you idiot."
+
+Stu looked away nervously. The newspaper clippings on the wall caught his eye. His eyes glistened ever so slightly. "He was so proud of you. His baby brother making the front page - making a difference. All he ever made in his miserable life was trouble."
+
+Peter's eyebrows raised.
+
+Stu quickly added, "His words, not mine." He adjusted his collar. "Anyways, I had to come here and plead his case Pete. Here's the address." Stu handed over a napkin with his chicken scratch on it. "I think you still have time to get the union to come to an understanding." He looked at his watch. "Oh shit! Hey I gotta run. Call me if you..." He stopped short. "Actually, I can't be involved in this any more than I am. Tell your brother he owes me for getting you."
+
+Peter rolled his eyes. As stu walked out of his office he reviewed his arsenal of projectiles. Nothing jumped out at him so Stu left without injury. He looked down at the napkin. *2301 Wayside Drive.* 
+
+"Shit," he whispered, and the rain continued.
+
 ---
 
 [Back to Contents](/OMBW/stories/downpour/) <span>|</span> [Next Chapter →](/OMBW/stories/downpour/chapter-02/)
