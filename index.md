@@ -3,52 +3,26 @@ layout: default
 title: Home
 ---
 
-<p class="eyebrow">One Million Bad Words</p>
+One Million Bad Words
 
-<h1 class="home-title">OMBW<span class="period">.</span></h1>
+# OMBW.
 
-<p class="intro">
-  "There's a saying that every writer has a million bad words in him or her, and that once those million bad words are gone, he or she can write something worth reading. The question, then, is how to make those million bad words go away. The answer is easy and hard at the same time: You write them." -Barry Lyga
-</p>
+> There's a saying that every writer has a million bad words in him or her, and that once those million bad words are gone, he or she can write something worth reading. The question, then, is how to make those million bad words go away. The answer is easy and hard at the same time: You write them. — Barry Lyga
 
-<section class="story-section">
-  <h2>Stories</h2>
+## Stories
 
-  <article class="story-entry">
-    <p class="story-number">01 / STORY</p>
+### 01 / STORY
 
-    <h3>
-      <a href="{{ '/stories/downpour/' | relative_url }}">
-        Downpour
-      </a>
-    </h3>
+### [Downpour](/OMBW/stories/downpour/)
 
-    <p class="story-description">
-      PI noir in a rainy city.
-    </p>
+PI noir in a rainy city.
 
-    <a class="read-link"
-       href="{{ '/stories/downpour/' | relative_url }}">
-      Enter story →
-    </a>
-  </article>
+[Enter story →](/OMBW/stories/downpour/)
 
-  <article class="story-entry">
-    <p class="story-number">02 / STORY</p>
+### 02 / STORY
 
-    <h3>
-      <a href="{{ '/stories/mothman_brunch/' | relative_url }}">
-        Mothman Brunch
-      </a>
-    </h3>
+### [Mothman Brunch](/OMBW/stories/mothman_brunch/)
 
-    <p class="story-description">
-      Cryptid Hallmark movie.
-    </p>
+Cryptid Hallmark movie.
 
-    <a class="read-link"
-       href="{{ '/stories/mothman_brunch/' | relative_url }}">
-      Enter story →
-    </a>
-  </article>
-</section>
+[Enter story →](/OMBW/stories/mothman_brunch/)
