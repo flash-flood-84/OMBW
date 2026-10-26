@@ -11,4 +11,4 @@ words
 
 ---
 
-[← Previous Chapter](../chapter-02/) | [Back to Contents](/OMBW/stories/mothman_brunch/)
+[← Previous Chapter](../chapter-02/) <span>|</span> [Back to Contents](/OMBW/stories/mothman_brunch/)
