@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-<p class="eyebrow">A COLLECTION OF WRITING</p>
+<p class="eyebrow">One Million Bad Words</p>
 
 <h1 class="home-title">OMBW<span class="period">.</span></h1>
 
 <p class="intro">
-  Stories, strange places, and things that linger.
+  "There's a saying that every writer has a million bad words in him or her, and that once those million bad words are gone, he or she can write something worth reading. The question, then, is how to make those million bad words go away. The answer is easy and hard at the same time: You write them." -Barry Lyga
 </p>
 
 <section class="story-section">
