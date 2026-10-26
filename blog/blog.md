@@ -13,4 +13,4 @@ But now things felt different and also I had a newfound sense of fearlessness wh
 
 So about six months later I now have 3 or 4 beginnings of stories and I'm ready to put them out into the world. Of course, that goes back on my screenless goal, but now really I am more excited about the writing than anything else and trying to contain and track my stories in a notebook has become painful. 
 
-And so begins the adventure. My current goal is to just one of these initial stories finished. If I can do that then I will be proud - even if it sucks.
+And so begins the adventure. My current goal is to just get one of these initial stories finished. If I can do that then I will be proud - even if it sucks.
