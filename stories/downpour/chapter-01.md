@@ -91,7 +91,7 @@ Peter's eyebrows raised.
 
 Stu quickly added, "His words, not mine." He adjusted his collar. "Anyways, I had to come here and plead his case Pete. Here's the address." Stu handed over a napkin with his chicken scratch on it. "I think you still have time to get the union to come to an understanding." He looked at his watch. "Oh shit! Hey I gotta run. Call me if you..." He stopped short. "Actually, I can't be involved in this any more than I am. Tell your brother he owes me for getting you."
 
-Peter rolled his eyes. As stu walked out of his office he reviewed his arsenal of projectiles. Nothing jumped out at him so Stu left without injury. He looked down at the napkin. *2301 Wayside Drive.* 
+Peter rolled his eyes. As Stu walked out of his office he reviewed his arsenal of projectiles. Nothing jumped out at him so the soggy man left without injury. He looked down at the napkin. *2301 Wayside Drive.* 
 
 "Shit," he whispered, and the rain continued.
 
