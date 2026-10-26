@@ -1,1 +1,201 @@
-lorem
+/* ----------------------------------
+   OMBW — A literary website
+   ---------------------------------- */
+
+:root {
+  --paper: #faf8f2;
+  --ink: #292820;
+  --muted: #777468;
+  --accent: #8a4938;
+  --line: #e5e0d5;
+}
+
+/* Reset */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Links */
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+/* Header */
+
+.site-header {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 28px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+}
+
+.site-name {
+  font-size: 21px;
+  font-weight: bold;
+  letter-spacing: 0.04em;
+}
+
+.site-nav {
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.site-nav a {
+  color: var(--muted);
+}
+
+.site-nav a:hover {
+  color: var(--accent);
+}
+
+/* Main content */
+
+.main-content {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 90px 32px 120px;
+}
+
+/* Homepage introduction */
+
+.eyebrow,
+.story-number {
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+.home-title {
+  margin: 12px 0 0;
+  font-size: clamp(64px, 12vw, 104px);
+  font-weight: normal;
+  letter-spacing: -0.065em;
+  line-height: 1.1;
+}
+
+.period {
+  color: var(--accent);
+}
+
+.intro {
+  max-width: 480px;
+  margin: 22px 0 0;
+  color: var(--muted);
+  font-size: 21px;
+  line-height: 1.7;
+}
+
+/* Story collection */
+
+.story-section {
+  margin-top: 100px;
+}
+
+.story-section > h2 {
+  margin: 0 0 32px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--line);
+  font-size: 28px;
+  font-weight: normal;
+}
+
+.story-entry {
+  padding: 24px 0 34px;
+  border-bottom: 1px solid var(--line);
+}
+
+.story-number {
+  margin: 0;
+}
+
+.story-entry h3 {
+  margin: 8px 0;
+  font-size: 32px;
+  font-weight: normal;
+  line-height: 1.3;
+}
+
+.story-entry h3 a:hover {
+  color: var(--accent);
+}
+
+.story-description {
+  margin: 8px 0 14px;
+  color: var(--muted);
+  font-size: 16px;
+}
+
+.read-link {
+  color: var(--accent);
+  font-size: 15px;
+}
+
+/* Footer */
+
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 24px 32px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+  .site-header {
+    padding: 20px 24px;
+  }
+
+  .main-content {
+    padding: 64px 24px 90px;
+  }
+
+  .home-title {
+    font-size: 72px;
+  }
+
+  .intro {
+    font-size: 19px;
+  }
+
+  .story-section {
+    margin-top: 72px;
+  }
+
+  .story-entry h3 {
+    font-size: 28px;
+  }
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    {% if page.title %}
+      {{ page.title }} — {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
+
+  <meta name="description" content="{{ site.description }}">
+
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+  <header class="site-header">
+    <a class="site-name" href="{{ '/' | relative_url }}">
+      {{ site.title }}
+    </a>
+
+    <nav class="site-nav">
+      <a href="{{ '/' | relative_url }}">Home</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>Made of words.</p>
+  </footer>
+</body>
+</html>
