@@ -9,6 +9,12 @@ This is my attempt at getting all my bad words out.
 
 ---
 
+## [Blog](/OMBW/blog/blog)
+
+Blog posts about my progress as a writer.
+
+---
+
 ## [Downpour](/OMBW/stories/downpour/)
 
 PI noir in a rainy city.
