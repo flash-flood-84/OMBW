@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Mothman Brunch — Chapter One
+layout: chapter
+title: Chapter One
 ---
 
 chapter 1 stuff
