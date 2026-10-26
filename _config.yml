@@ -1,0 +1,18 @@
+# Site information
+title: My Writing
+description: A collection of my creative writing and stories.
+
+# GitHub Pages settings
+url: "https://flash-flood-84.github.io"
+baseurl: "/OMBW"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude development files from the published site
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
