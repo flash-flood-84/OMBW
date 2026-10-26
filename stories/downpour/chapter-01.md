@@ -25,9 +25,29 @@ He quieted his thoughts. Trying not to sound desperate, he cleared his throat an
 
 In walked a short, soggy figure. A man in a drenched, black (or was it gray when dry?) suit. The man paused to wipe rain droplets off of his glasses. It took Peter a minute to recognize him.
 
-"Fuck off! Out! Out now! I told you I never want to see your face again! Actually wait. Where's my god damn money?"
+"Fuck off! Out! Out now! I told you I never wanted6 to see your face again! Actually wait. Where's my god damn money?"
 
+The man took a step back and put out his hands, as if ready for physical defense. "Pete wait!" The soggy man pleaded. "Calm down. Hey!"
 
+The man dodged a flying eraser.
+
+"Hey it wasn't my fault! You and I were both screwed over. I thought you understood that. Stop!"
+
+The man dodged a flying stapler.
+
+"It's John! He's in trouble!"
+
+The projectiles stopped.
+
+Peter clenched his jaw. Rising out of his angrily hunched shoulder to his full height, his eyed bored a whole into the man. Slowly, he said, "Don't mess with me Stu. If you're using that name just to get something from me I'll grab that stapler and..."
+
+Stu begged, "No Pete. I swear. John needs help. He needs your help!"
+
+"If my brother got himself in a mess, then he can dig his own stupid self out of it."
+
+Stu looked down, noticing the droplets falling from his suit onto the wood floors. A small puddle was beginning to form.
+
+Peter looked at the puddle too, and the two men broke into laughter.
  
 ---
 
