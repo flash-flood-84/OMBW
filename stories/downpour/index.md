@@ -14,3 +14,5 @@ I recognize that these "chapters" are quite short. I guess I kind of like to thi
 - [Chapter One](chapter-01/)
 - [Chapter Two](chapter-02/)
 - [Chapter Three](chapter-03/)
+- [Chapter Four](chapter-04/)
+- [Chapter Five](chapter-05/)
