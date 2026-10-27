@@ -49,7 +49,7 @@ Up until this point, Peter had remained relatively calm. He's seen his share of 
 
 "When we figured out who John was, or, more precisely, who his brother was, I knew we needed you." Vince looked annoyingly satisfied with himself at this point, and Peter suppressed the urge to roll his eyes. "You see, Petah, I got a problem that money can't solve right now. Maybe problem isn't even the right word. It's more of a mystery - one that needs solving. A question. And if you find my answer, then you get your brother back." Vince winked at Peter.
 
-Peter stared in disbelief. *Just when I needed a good case to get back on my feet I get this bullshit. This is how my prayers are answered.* He looked back at John and considered leaving him there and refusing to help Vince. His mother would roll in her grave but he figured he could stomach that. But he also knew that Vince wasn't the type of guy to take no for an answer.
+Peter stared in disbelief. *Just when I needed a good case to get back on my feet I get this bullshit. This is how my prayers are answered.* He looked back at John and considered leaving him there and refusing to help Vince. His mother would roll in her grave, but he figured he could stomach that. That being said, he also knew that Vince wasn't the type of guy to take no for an answer.
 
 "Fine," he said flatly. "What's this mystery?"
 
