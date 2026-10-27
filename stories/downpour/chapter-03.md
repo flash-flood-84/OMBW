@@ -47,6 +47,18 @@ Vince's gaze drifted to Peter's brother, and he said with a lightness, "You know
 
 Up until this point Peter had remained relatively calm. He's seen his share of crazy shit. He's had guns pointed at him before. But something in Vince's face got to him. Or was it a lack of something? Whatever it was sent a chill down his spine. He wasn't sitting with a man in a shipping container. This was a mountain lion in a cave. 
 
+"When we figured out who John was, or, more precisely, who his brother was, I knew we needed you." Vince looked annoyingly satisfied with himself at this point and Peter suppressed the urge to roll his eyes. "You see, Petah, I got a problem that money can't solve right now. Maybe problem isn't even the right word. It's more of a mystery - one that needs solving. A question. And if you find my answer, then you get your brother back." Vince winked at Peter.
+
+Peter stared in disbelief. *Just when I needed a good case to get back on my feet I get this bullshit. This is how my prayers are answered.* He looked back at John and considered leaving him there and refusing to help Vince. His mother would roll in here grave but he figured he could stomach that. But he also knew that Vince wasn't the type of guy to take no for an answer.
+
+"Fine," he said flatly. "What's this mystery?"
+
+"Honestly Petah, it's personal." He looked up and nodded to Tony. "I love ya Tony, but you're dumb as a sack of rocks. Don't be offended but I can't have you hearing about this shit." He looked back at Peter. "Go to The Big Squeeze on 42nd and ask for Raph. He'll tell you everything you need to know."
+
+Peter could hear the hum of the florescent lighting. There was a metallic smell in the air. He realized that it was the smell of John's blood. He was lying to himself before. He would do anything for his brother. Again, he looked right into Vince's brown eyes. "Fine, now get this gun off my back." 
+
+Vince nodded to Tony and the thug took a few steps back. Peter rose and stepped out of the container but before he got too far Vince called to him. "And Petah... You have two days." 
+
 ---
 
 [← Previous Chapter](/OMBW/stories/downpour/chapter-02/) <span>|</span> [Back to Contents](/OMBW/stories/downpour/) <span>|</span> [Next Chapter →](/OMBW/stories/downpour/chapter-04/)

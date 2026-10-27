@@ -12,6 +12,8 @@ Anyways, my silly idea for this one was to blend a spooky cryptid story with ele
 - They rekindle an old relationship
 - (In the books) lots of gratuitous descriptions of food and drink
 
+**Note:** As of now, what I've got for this story is still sitting in my notebook.
+
 ## Contents
 
 - [Chapter One](chapter-01/)
