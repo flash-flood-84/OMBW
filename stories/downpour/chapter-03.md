@@ -53,11 +53,11 @@ Peter stared in disbelief. *Just when I needed a good case to get back on my fee
 
 "Fine," he said flatly. "What's this mystery?"
 
-"Honestly Petah, it's personal." He looked up and nodded to Tony. "I love ya Tony, but you're dumb as a sack of rocks. Don't be offended but I can't have you hearing about this shit." He looked back at Peter. "Go to The Big Squeeze on 42nd and ask for Raph. He'll tell you everything you need to know."
+"Honestly Petah, it's personal." He looked up and nodded to Tony. "I love ya Tony, but you're dumb as a sack of rocks and I don't trust you not to run your mouth. Don't be offended, but I can't have you hearing about this shit." He looked back at Peter. "Go to The Big Squeeze on 42nd and ask for Raph. He'll tell you everything you need to know."
 
 Peter could hear the hum of the fluorescent lighting. There was a metallic smell in the air. He realized that it was the smell of John's blood. He was lying to himself before. He would do anything for his brother. Again, he looked right into Vince's brown eyes. "Fine. Now get this gun off my back." 
 
-Vince nodded to Tony and the thug took a few steps back. Peter rose and stepped out of the container but before he got too far Vince called to him. "And Petah." He grinned. "You have two days." 
+Vince nodded to Tony and the thug took a few steps back. Peter rose and stepped out of the container. Before he got too far Vince called to him. "And Petah." He grinned. "You have two days." 
 
 ---
 
