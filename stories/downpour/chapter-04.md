@@ -37,7 +37,7 @@ Now, wishing he had brought his gun after all, he clutched his umbrella tightly.
 
 Note to reader: Since it is always raining in this city, everyone has an umbrella. Umbrella's have been elevated to a required item in this world, and many people form emotional bonds with them, as you would with a particularly good pair of shoes or pants. Maybe a car would be a better comparison. End note.
 
-He held his breath, listening. It was 9:00PM now. The whole building was silent, including his office. He exhaled and opened the door into his office, exactly as it was when he left it. He expected something more. A mess? Filing cabinet ripped open? Nothing. *I expected more chaos from you, Mr. Crowbar.* 
+He held his breath, listening. It was 9:00PM now. The whole building was silent, including his office. He exhaled and opened the door. Everything was exactly as it was when he left it. He expected something more. A mess? Filing cabinet ripped open? Nothing. *I expected more chaos from you, Mr. Crowbar.* 
 
 ---
 
