@@ -31,13 +31,13 @@ A thought popped into his head now. *Those thugs weren't taking any chances. Eve
 
 Ascending the stairs to his office on the second floor, he was struck by a particular smell. Cigarette smoke. No. Cigar. *No one in this crappy old building can afford cigars. Who could that have been?*
 
-His eyes widened as he entered the hallway to his office. Even from the other end of the hall, he could tell something had happened to the door. Quickly closing the distance he saw chunks taken out of the frame, as if the door had been forced with a crowbar. Amidst his immediate shock, and rising adrenaline with the prospect of dealing with a potential intruder, he still had the strong thought, *Crowbar? There's easier ways to break in. I know. I've had to pick the lock a few times when I forgot my keys.*
+His eyes widened as he entered the hallway to his office. Even from the other end of the hall, he could tell something had happened to the door. Quickly closing the distance, he saw chunks taken out of the frame and the deadbolt casing was blown out, as if the door had been forced with a crowbar. Amidst his immediate shock, and rising adrenaline with the prospect of dealing with a potential intruder, he still had the strong thought, *Crowbar? There's easier ways to break in. I know. I've had to pick the lock a few times when I forgot my keys.*
 
 Now, wishing he had brought his gun after all, he clutched his umbrella tightly. Sure, his wasn't like those of the union men, but it had a solid ash shaft and stainless steel frame. 
 
 Note to reader: Since it is always raining in this city, everyone has an umbrella. Umbrella's have been elevated to a required item in this world, and many people form emotional bonds with them, as you would with a particularly good pair of shoes or pants. Maybe a car would be a better comparison. End note.
 
-
+He held his breath, listening. It was 9:00PM now. The whole building was silent, including his office. He exhaled and opened the door into his office, exactly as it was when he left it. He expected something more. A mess? Filing cabinet ripped open? Nothing. *I expected more chaos from you, Mr. Crowbar.* 
 
 ---
 
