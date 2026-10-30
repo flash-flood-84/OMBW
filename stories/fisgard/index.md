@@ -5,7 +5,7 @@ title: Fisgard
 
 # Fisgard
 
-I had been reading the A Song of Ice and Fire books when I got the idea for this one. It is kind of like a medieval/fantasy whodunnit, but I'm hoping it will also have some elements of The Thing in there. Basically, a bunch of the usual fantasy types are trapped in an abandoned fort during a snow storm, and then people start dying.
+I had been reading the A Song of Ice and Fire books when I got the idea for this one. It is kind of like a medieval/fantasy whodunnit, but I'm hoping it will also have some elements of The Thing in there. Basically, a bunch of the usual fantasy types are trapped in an abandoned fort during a snow storm, and then people start dying. I also want it to be kind of silly. A little bit of Monty Python holy grail if I can manage it. And I want a lot of the names to be silly.
 
 ## Contents
 
