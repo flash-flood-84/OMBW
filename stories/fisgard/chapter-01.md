@@ -9,7 +9,7 @@ The sun shone brightly that day as the docks bustled with activity. The first ca
 
 Suddenly very aware of his silk tunic and supple black leather riding boots, he glanced around nervously. From a stall close to the water he was accosted.
 
-"Boy! Yes you boy!" a salty old crone croaked at him. She was holding a gigantic bag of clams. "CLAMS!" she yelled, staring blankly at him.
+"Boy! Yes, you, boy!" a salty old crone croaked at him. She was holding a gigantic bag of clams. "CLAMS!" she yelled, staring blankly at him.
 
 Jimothy tried to keep his momentum, but also wanted to be polite. "Yes. Clams I see you have. Good day to you."
 
