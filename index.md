@@ -24,3 +24,9 @@ PI noir in a rainy city.
 ## [Mothman Brunch](/OMBW/stories/mothman_brunch/)
 
 Cryptid Hallmark movie.
+
+---
+
+## [Fisgard](/OMBW/stories/fisgard/)
+
+Fantasy/horror whodunnit.
