@@ -21,11 +21,11 @@ He was a nice boy, but the common folk did put him ill at ease. He had spent the
 
 "EELS!" a fat man shouted beside him. "You there! Little lordling. Come buy some eels to take back to your precious lord father. I'll give you the best deal on..." he paused to suck in his breath before shouting, "THE FRESHEST EELS IN TOWN!"
 
-In a very small voice, Jimothy began to say, "Please sir. I'm no lord and I lost my father three years past. By God's grace, I've been honored to become a squire. If you'd be so kind, could you please help..."
+In a very small voice, Jimothy began to say, "Please, sir. I'm no lord and I lost my father three years past. By God's grace, I've been honored to become a squire. If you'd be so kind, could you please help..."
 
 He was cut off by the crone, in her high, shrill voice. "Don't bother, Davey. The little prince was too full of 'emself for me clams, so I doubt ee'd want none a'your eels, fresh as they are." She gave the man a mock curtsy. She shook her head. "Me, I says ee's lying about 'is father too. This fancy little prince wouldn't know tragedy from a cow's ass." She suddenly looked very weary, adopting an exaggerated hunch. "All me children died last winter with the famine."
 
-It was Davey's turn to suddenly hunch over. "Too true Grafilda. Too true. The lad could never know what it would feel like to hold your dying wife, as she let out her last breath. Her pox riddled body already halfway to being a corpse." He looked up at Jimothy. "Poor old Davey does."
+It was Davey's turn to suddenly hunch over. "Too true, Grafilda. Too true. The lad could never know what it would feel like to hold your dying wife, as she let out her last breath. Her pox-riddled body already halfway to being a corpse." He looked up at Jimothy. "Poor old Davey does."
 
 Great tears welled up in Jimothy's eyes. "Oh my." He sniffled at a loss for words. "My, my, my." He felt the weight of his coin purse at his waist. It had somehow become very heavy. Embarrassingly so. "Yes, please, sir, madam." h   e said with his eyes glistening. "Yes, please could I have some of your beautiful clams and eels?"
 

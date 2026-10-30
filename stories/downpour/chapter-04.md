@@ -21,7 +21,7 @@ Peter knew she frequented The Big Squeeze, but when he tried to get in one night
 
 Peter stood there a moment, thinking.
 
-The other doorman cracked his knuckles and turned to Peter. "You need us to explain it better?"
+The other doorman cracked his knuckles and turned to Peter. "You need some help understanding, buddy?"
 
 Peter held his hands up. "Fellas, fellas. I'm sure this will all make sense after you talk to my friend. He'll clear all this up." He held up a bill with a notable president on it. "Maybe you know him?"
 
