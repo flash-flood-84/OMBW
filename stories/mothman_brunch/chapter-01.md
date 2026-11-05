@@ -3,6 +3,8 @@ layout: default
 title: Chapter One
 ---
 
+# Chapter One: Red Sand
+
 The sun had just set, but its glow bloomed up through the watery horizon and into the sky. A light breeze came in from the ocean and put a hint of fall into the late August night. The tide was high, but there was still a comfortable boundary of soft sand between the water and the boardwalk. A few weeks ago, the couple would have had to jockey for space, but, with the shoulder season approaching, the bulk of the tourists had left the small beach town.
 
 Their blanket was laden with a little feast. She had gone to the farmer's market that morning to grab cucumber, radish, and carrots, which she cut into perfect little spears and discs. That afternoon, she had also made hummus and tzatziki. He, naturally, had brought meat, cheese, bread, and red wine. For dessert, they had laughed when they bought it, but now it seemed perfect - on the drive up from Victoria to Parksville, they had stopped in Nanaimo and actually bought Nanaimo bars.

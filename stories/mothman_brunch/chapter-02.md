@@ -3,6 +3,8 @@ layout: default
 title: Chapter Two
 ---
 
+# Chapter Two: Moving Back Home
+
 "Jim, just put that anywhere. We can figure it all out eventually."
 
 He muttered, "Mom, not everything can just be figured out later."
