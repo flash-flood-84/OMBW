@@ -47,7 +47,7 @@ He had almost made it home when he stopped. Normally the best dressed person in 
 
 Jim chuckled to himself when he pictured the two of them with their ironed slacks rolled up and their jackets laying on the sand as they splashed in the water. His tummy rumbled and he forgot the thought altogether.
 
-At home, they ate and the tension was relieved. They upheld their tradition of tuning into Sly Johnny's Saturday evening broadcast, *Deep End of the High Tide.*
+At home, they ate and the tension was relieved. They also upheld their tradition of tuning into Sly Johnny's Saturday evening broadcast, *Deep End of the High Tide.*
 
 ---
 
