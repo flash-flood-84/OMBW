@@ -45,7 +45,7 @@ Jim was in heaven. He got both. By now, he was feeling sorry for being so short 
 
 He had almost made it home when he stopped. Normally the best dressed person in town would have been someone in business casual, so when two tall men in black suits and black hats stepped out of a black Lincoln Town Car he had to do a double take. They were heading for the beach. *Why not park down there though? And what could they possibly be hoping to do?*
 
-Jim chuckled to himself when he pictured the two of them with their ironed slacks rolled up and their jackets laying on thew sand as they splashed in the water. His tummy rumbled and he forgot the thought altogether.
+Jim chuckled to himself when he pictured the two of them with their ironed slacks rolled up and their jackets laying on the sand as they splashed in the water. His tummy rumbled and he forgot the thought altogether.
 
 At home, they ate and the tension was relieved. They upheld their tradition of tuning into Sly Johnny's Saturday evening broadcast, *Deep End of the High Tide.*
 
