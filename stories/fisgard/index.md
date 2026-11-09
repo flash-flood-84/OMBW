@@ -11,6 +11,3 @@ I had been reading the A Song of Ice and Fire books when I got the idea for this
 
 - [Chapter One](chapter-01/)
 - [Chapter Two](chapter-02/)
-- [Chapter Three](chapter-03/)
-- [Chapter Four](chapter-04/)
-- [Chapter Five](chapter-05/)

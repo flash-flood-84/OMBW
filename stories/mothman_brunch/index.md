@@ -17,3 +17,4 @@ Anyways, my silly idea for this one was to blend a spooky cryptid story with ele
 - [Chapter One](chapter-01/)
 - [Chapter Two](chapter-02/)
 - [Chapter Three](chapter-03/)
+- [Chapter Four](chapter-04/)

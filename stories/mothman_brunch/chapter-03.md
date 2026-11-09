@@ -75,4 +75,4 @@ Johnny was genuinely on the edge of his seat now. His voice was a whisper and hi
 
 ---
 
-[← Previous Chapter](../chapter-02/) <span>|</span> [Back to Contents](/OMBW/stories/mothman_brunch/)
+[← Previous Chapter](../chapter-02/) <span>|</span> [Back to Contents](/OMBW/stories/mothman_brunch/) <span>|</span> [Next Chapter →](/OMBW/stories/mothman_brunch/chapter-04/)
